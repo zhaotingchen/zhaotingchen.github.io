@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
+  - title: "Posts文章"
     url: /posts/
-  - title: "Categories"
+  - title: "Languages语言"
     url: /categories/
-  - title: "Tags"
+  - title: "Tags话题"
     url: /tags/
-  - title: "About"
+  - title: "About关于"
     url: /about/
+  - title: "CV简历"
+    url: /cv/
