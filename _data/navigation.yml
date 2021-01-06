@@ -1,12 +1,14 @@
 main:
   - title: "Research研究"
     url: /research/
+  - title: "CV简历"
+    url: /cv/
+  - title: "Publication文章"
+    url: /pub/
   - title: "Blogs博客"
     url: /posts/
   - title: "About关于"
     url: /about/
-  - title: "CV简历"
-    url: /cv/
   - title: "Languages语言"
     url: /categories/
   - title: "Tags话题"
