@@ -17,7 +17,7 @@ As someone with a very short attention span, I work on a wide range of topics to
 
 ## <a name="IM"></a> Neutral Hydrogen Intensity Mapping
 
-One of the biggest challenges in cosmological research today is to map the large scale structure of the Universe in different stages of its evolution. The name "large scale structure" mainly refers to the dark matter distribution, which can be very hard to see because dark matter is not visible at all (though some people disagree). Therefore, we use something called "tracers", usually galaxies, to infer the distribution of dark matter through the distribution of them.
+One of the biggest challenges in cosmological research today is to map the large scale structure of the Universe in different stages of its evolution. The name "large scale structure" mainly refers to the distribution of dark matter, which can be very hard to see because dark matter is not visible at all (though some people disagree). To deduce its distribution, we use something called "tracers", usually galaxies, to infer the distribution of dark matter through the distribution of them.
 
 <hr color="black">
 <table>
@@ -32,11 +32,11 @@ One of the biggest challenges in cosmological research today is to map the large
 <caption> Left: Simulation of dark matter distribution. Dense regions are in red. Right: Simulation of galaxy distributions. You can see galaxy clusters are at the positions where dark matter accumulates. Image Credit: <a href="http://icc.dur.ac.uk/Eagle/index.php">EAGLES collaboration</a> </caption>
 </table>
 
-However, when we try to look back into the state of the Universe billions of years ago, galaxies become extremely small because they are so far away from us. Eventually, if we look back far enough, it will reach the point where even the most powerful telescope we can possibly make falls short at detecting the existence of these far away galaxies. Also, what we care about is the distribution, so we really need the observation on a large number of them. This is where the so called "Intensity Mapping" comes in.
+However, when we try to look back into the state of the Universe billions of years ago, galaxies become extremely small because they are so far away from us. Eventually, if we look back far enough, it will reach the point where even the most powerful telescope we can possibly make falls short at detecting the existence of these far away galaxies. Also, what we care about is the distribution, so we really need the observation on a large number of them. Therefore, surveying the galaxies in the Universe far, far away to peek into the history of the Universe is a bit unrealistic. This is where the so called "Intensity Mapping" comes in.
 
-The Universe is filled with lots of different elements, the most abundant of which is hydrogen. Atoms, ions and moleculars have "emission lines", meaning that they will emit light every once in a while, in certain wavelengths. For neutral hydrogen atom, there exists an emission line at the rest wavelength of 21 cm. So instead of trying to find the tiny spots of galaxies, we can just look for this emission line which will tell us the distribution of hydrogen gas in the Universe, and use it to study the distribution of dark matter.
+The Universe is filled with lots of different elements, the most abundant of which is hydrogen. Atoms, ions and moleculars have "emission lines", meaning that they will emit light every once in a while, in certain wavelengths. For neutral hydrogen atom, there exists an emission line at the rest wavelength of 21 cm. So instead of trying to find the tiny spots of galaxies, we can just look for the intensity distribution of this emission line and map this intensity onto an **Intensity Map**, which will tell us the distribution of hydrogen gas in the Universe, and use it to study the distribution of dark matter.
 
-To make such an observation is extremely difficult. I'm working with Dr. Laura Wolz, my PhD supervisor, on the theoretical aspects of this topic, as members of the [SKA collaboration](https://en.wikipedia.org/wiki/Square_Kilometre_Array) and the [cosmology working group](https://astronomers.skatelescope.org/science-working-groups/cosmology/) within.
+To make such an observation is extremely difficult. I'm working with [Dr. Laura Wolz](https://www.research.manchester.ac.uk/portal/laura.wolz.html), my PhD supervisor, on the theoretical aspects of this topic, as members of the [SKA collaboration](https://en.wikipedia.org/wiki/Square_Kilometre_Array) and the [cosmology working group](https://astronomers.skatelescope.org/science-working-groups/cosmology/) within.
 
 <figure>
     <img src='/assets/images/SKA-at-night-4k1.jpeg' alt='SKA at night' />
@@ -47,29 +47,29 @@ To make such an observation is extremely difficult. I'm working with Dr. Laura W
 
 ## <a name="EoR"></a> Cosmic Reionisation
 
-Before all the planets, stars and galaxies, the Universe is in its Dark Ages. Without luminous objects, the Universe is filled with just neutral gas of hydrogen and helium. But that didn't last forever, since matter accumulates and eventually forms luminous objects. These objects emit high energy photons, capable of ionising those once neutral atoms. In the end, most of the gas in the intergalactic medium gets ionised in the period of time which is called the Epoch of Reionisation.
+Before all the planets, stars and galaxies, the Universe is in its Dark Ages. Without light emitting objects, the Universe is filled with just neutral gas of hydrogen and helium. But that didn't last forever, since matter accumulates and eventually forms luminous objects. These objects emit high energy photons, capable of ionising those once neutral atoms. In the end, most of the gas in the intergalactic medium gets ionised in the period of time which is called the **Epoch of Reionisation**.
 
-This era is particularly special because it's the rare case where we care about the underdense bulk of gas in between galaxies, instead of the overdense regions where structure lies. Because of that, two-point statistics are not quite enough. Instead, we want to directly study the morphology of these regions that are getting ionised, i.e. their shapes and sizes.
+This era is particularly special because it's the rare case where we care about the underdense bulk of gas in between galaxies, instead of the overdense regions where structure lies. Because of that, two-point statistics are not quite enough because the distribution of these rather empty spaces is quite irregular. Instead, we want to directly study the morphology of these regions that are getting ionised, i.e. their shapes and sizes.
 
 <figure>
     <img src='/assets/images/island.jpg' alt='neutral island'  style="width:50%"/>
     <figcaption>A simulation of neutral regions towards the end of EoR I used in <a href="https://arxiv.org/abs/1812.10333">this paper</a></figcaption>
 </figure>
 
-By studying these regions and their morphology, we can paint a picture of how many galaxies and dark matter halos are there, how they emit high energy photons, and how these photons propogate through the Universe.
+By studying these regions and their morphology, we can paint a picture of how many galaxies and dark matter halos are there back when the Universe is fresh out of its Dark Ages, how they emit high energy photons, and how these photons propogate through the Universe.
 
 [Back to Top](#top)
 
 ## <a name="WL"></a> Weak Lensing
 
-One of the most shocking predictions, and the very first prediction to be [verified in 1929](https://en.wikipedia.org/wiki/Eddington_experiment), of Einstein's general relativity is that the massless light can be bent by the gravity. This leads to the existence of gravitational lensing, meaning that stars and galaxies can act like lenses deflecting lights. If the angle is perfectly aligned, we can see that the deflection of light forms a ring called an "Einstein Ring".
+One of the most shocking predictions, and the very first to be [verified in 1919](https://en.wikipedia.org/wiki/Eddington_experiment), of Einstein's general relativity is that the massless light can be bent by the gravity. This leads to the existence of gravitational lensing, meaning that stars and galaxies can act like lenses deflecting lights. If the angle is perfectly aligned between the far away light source, the slightly closer lens and the observer, we can see that the deflection of light forms a ring called an "Einstein Ring".
 
 <figure>
     <img src='/assets/images/ring.jpeg' alt='Einstein Ring'>
     <figcaption>An Einstein Ring from a distant galaxy, lensed by the galaxy cluster SDSS J0146-0929. Credit: ESA/Hubble & NASA</figcaption>
 </figure>
 
-Of course, it's very rare that the source, the lens and the observer are perfectly aligned to set up this extraordinary phenomenon. Usually, when the light from distant galaxies travels to us, it will only be very slightly bent, resulting in a very subtle shape distortion of the image known as weak lensing. Although this shape distortion is very hard to see case by case, once we have a collection of them we can produce a map of this effect and use it to study the distribution of structure.
+Of course, it's very rare that the source, the lens and the observer are perfectly aligned to set up this extraordinary phenomenon. Usually, when the light from distant galaxies travels to us, it will only be very slightly bent, resulting in a very subtle shape distortion of the image known as **weak lensing**. Although this shape distortion is very hard to see case by case, once we have a collection of them we can produce a map of this effect and use it to study the distribution of structure.
 
 For me, the most fascinating thing about weak lensing is that its outcome is a **direct** reflection of the underlying theory of gravity. If the space time geometry changes, the light bending rules will be changed. Therefore, weak lensing can be used to detect possible tiny deviations from general relativity.
 
@@ -94,7 +94,7 @@ Coding is an unalienable part of astronomy research. For cosmology, the data obs
 
 Obviously my own work is not going to be as important as CAMB. Nevertheless, I'm working on some computational tools related to my research interests, to efficiently analyse/simulate the Universe.
 
-One python package that I'm very lucky to work a bit on is [**halomod**](https://github.com/steven-murray/halomod), developed by the wonderful [Steven G. Murray](http://loco.lab.asu.edu/steven-murray/). It is a package dealing with the halo model of large scale structure, and can efficiently generate two-point statistics for a given model input. If you're interested, check out its [documentation](https://halomod.readthedocs.io) and [release paper](https://arxiv.org/abs/2009.14066).
+One python package that I'm very lucky to work a bit on is [**halomod**](https://github.com/steven-murray/halomod), developed by [Steven G. Murray](http://loco.lab.asu.edu/steven-murray/). It is a package dealing with the halo model of large scale structure, and can efficiently generate two-point statistics for a given model input. If you're interested, check out its [documentation](https://halomod.readthedocs.io) and [release paper](https://arxiv.org/abs/2009.14066).
 
 As if this is not impressive enough, Steven even made a WEB APP for it! You can find it at [this link](https://thehalomod.app/), play with some input models, and generate everything you want out of halo model from a web page. Who says you can't do cosmology on your phone?
 
