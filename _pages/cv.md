@@ -4,4 +4,4 @@ layout: splash
 ---
 
 <br/><br/>
-You can find my CV [here](/assets/docs/CV.pdf)
+<p>You can find my CV <a href="/assets/docs/CV.pdf" target="_blank" rel="noopener noreferrer">here</a>.</p>
