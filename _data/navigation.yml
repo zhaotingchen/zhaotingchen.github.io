@@ -1,6 +1,6 @@
 main:
-  - title: "Research研究"
-    url: /research/
+  #- title: "Research研究"
+  #  url: /research/
   - title: "CV简历"
     url: /cv/
   - title: "Publication文章"
