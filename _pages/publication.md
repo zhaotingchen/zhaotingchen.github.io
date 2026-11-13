@@ -11,5 +11,5 @@ layout: splash
 You can find the list of my publication at:
 
 - [Inspire HEP](https://inspirehep.net/authors/1750562)
-- [NASA ADS](<https://ui.adsabs.harvard.edu/search/p_=0&q=orcid%3A0000-0002-4965-8239&sort=date%20desc%2C%20bibcode%20desc>)
+- [NASA ADS](<https://scixplorer.org/public-libraries/Di_HcRe9SieRAhIR3fpNEg>)
 - [ORCID](https://orcid.org/0000-0002-4965-8239)
